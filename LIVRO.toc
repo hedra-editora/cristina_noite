@@ -5,13 +5,13 @@
 \contentsline {chapter}{III}{25}
 \contentsline {chapter}{IV}{31}
 \contentsline {chapter}{V}{37}
-\contentsline {chapter}{VI}{48}
-\contentsline {chapter}{VII}{57}
-\contentsline {chapter}{VIII}{63}
-\contentsline {chapter}{IX}{75}
-\contentsline {chapter}{X}{83}
-\contentsline {chapter}{XI}{92}
-\contentsline {chapter}{XII}{102}
-\contentsline {chapter}{XIII}{108}
-\contentsline {chapter}{XIV}{117}
+\contentsline {chapter}{VI}{47}
+\contentsline {chapter}{VII}{56}
+\contentsline {chapter}{VIII}{62}
+\contentsline {chapter}{IX}{74}
+\contentsline {chapter}{X}{82}
+\contentsline {chapter}{XI}{91}
+\contentsline {chapter}{XII}{101}
+\contentsline {chapter}{XIII}{107}
+\contentsline {chapter}{XIV}{116}
 \contentsfinish 
