@@ -1,15 +1,15 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1589556699 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1589923445
-  "LIVRO.idx" 1589923443 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex LIVRO.idx"] 1589556699 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1589924576
+  "LIVRO.idx" 1589924573 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "LIVRO.ilg"
   "LIVRO.ind"
-["makeindex persons.idx"] 1589556699 "persons.idx" "persons.ind" "persons" 1589923445
-  "persons.idx" 1589923443 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "LIVRO.ilg"
+["makeindex persons.idx"] 1589556699 "persons.idx" "persons.ind" "persons" 1589924576
+  "persons.idx" 1589924573 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "persons.ind"
   "persons.ilg"
-["pdflatex"] 1589923442 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1589923445
+  "persons.ind"
+["pdflatex"] 1589924572 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1589924576
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1568389827 330559 8015d189746fd34549af425155e1e6e6 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1568389827 287959 d5887f4d1b939889089730c9a54a54da ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc" 1568389827 219520 6fa7a4848f8db3261ce34a95f9e81fd5 ""
@@ -226,13 +226,13 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1589923445 2480 7b43c0959401189d4eb8db3d87cc9096 ""
+  "INPUTS.aux" 1589924575 2480 efcd5ba8d2c4277f5875eb62baaa50bd ""
   "INPUTS.tex" 1589571101 24 d8ee45f348663a179b290b45f861a52d ""
-  "LIVRO.aux" 1589923445 373 25405ad021a8bdedfeec88765663c2ff ""
+  "LIVRO.aux" 1589924576 373 fbe4cd42326244fbfdee87d424c5166e ""
   "LIVRO.ind" 1589571101 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1589571797 1370 64cc32fdf8d18c6125a51a48701b63a3 ""
-  "LIVRO.toc" 1589923445 541 c09a5ab255633ca5e38f90cfe70e546f ""
-  "ORIGINAIS.tex" 1589923373 292851 460a71b7519916638a5f5f2783569154 ""
+  "LIVRO.toc" 1589924576 541 a4c1e3fae5870f155d0a0e1f1b39a279 ""
+  "ORIGINAIS.tex" 1589924570 293107 5635e7ee00a41bbb929cf0ea9cabbab2 ""
   "fichatecnica.sty" 1589571182 2278 502daf7609d0471a99a454cdbc25a130 ""
   "fronthedra.tex" 1589571242 2960 520d1350be116af4da20a07e70a2456a ""
   "gitrevisioninfo.sty" 1589571101 35 48c993f5a6d90aaae1febd5c16f55fff ""
@@ -240,10 +240,10 @@
   "persons.ind" 1589571101 0 d41d8cd98f00b204e9800998ecf8427e "makeindex persons.idx"
   "tipografia.sty" 1589571101 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
+  "LIVRO.toc"
+  "LIVRO.aux"
   "LIVRO.idx"
+  "LIVRO.log"
+  "INPUTS.aux"
   "persons.idx"
   "LIVRO.pdf"
-  "INPUTS.aux"
-  "LIVRO.toc"
-  "LIVRO.log"
-  "LIVRO.aux"
