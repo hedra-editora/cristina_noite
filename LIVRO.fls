@@ -322,6 +322,9 @@ OUTPUT LIVRO.idx
 OUTPUT persons.idx
 OUTPUT LIVRO.idx
 OUTPUT persons.idx
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/utopia-std.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/utopia-std-bold.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/utopia-std-italic.luc
 INPUT ./LIVRO.aux
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
