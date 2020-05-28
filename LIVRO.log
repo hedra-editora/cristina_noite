@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  26 MAY 2020 21:19
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  27 MAY 2020 22:21
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.095 seconds
+luaotfload | main : initialization completed in 0.099 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2198,8 +2198,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  24893 strings out of 494480
  1819376,794899 words of node,token memory allocated
- 1476699 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 239082 glyph, 17592 attribute, 1
+ 1476645 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 239073 glyph, 17592 attribute, 1
 96 glue_spec, 2932 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:5,2:793,3:101,4:51,5:1253,6:1642,7:1227,8:73,9:186,10:26,11:47
 5
@@ -2213,7 +2213,7 @@ xmf/tex/fonts/utopia-std-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/ark
 andis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb>
-Output written on LIVRO.pdf (130 pages, 485795 bytes).
+Output written on LIVRO.pdf (130 pages, 485750 bytes).
 
 PDF statistics: 447 PDF objects out of 1000 (max. 8388607)
  300 compressed objects within 3 object streams
