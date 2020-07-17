@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  10 JUL 2020 21:12
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 JUL 2020 19:14
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.111 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -491,12 +491,8 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks24
 \footnotemargin=\dimen167
-
-
-LaTeX Warning: Command \@makecol  has changed.
-               Check if current package is valid.
-
 \c@pp@next@reset=\count144
+
 
 LaTeX Warning: Command \@footnotemark  has changed.
                Check if current package is valid.
@@ -1202,26 +1198,31 @@ eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . fontspec info: "defining-font"
 . 
 . Font family 'LinuxLibertineO(0)' created for font 'Linux Libertine O' with
-. options [Ligatures=TeX].
+. options [Numbers={Proportional,OldStyle},Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+smc
+p;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+s
+mcp;"
 . - 'italic' (m/it) with NFSS spec.:
-. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+s
+mcp;"
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
+
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+
+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 5.
 
@@ -1626,20 +1627,21 @@ luaotfload | aux : no font with id 40
 . fontspec info: "defining-font"
 . 
 . Font family 'utopia-std(0)' created for font 'utopia-std' with options
-. [Ligatures=TeX,Ligatures=TeX].
+. [Numbers={Proportional,OldStyle},Ligatures=TeX,Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"utopia-std:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"utopia-std:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"utopia-std:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"utopia-std:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+smcp;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"utopia-std/B:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"utopia-std/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"utopia-std/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"utopia-std/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+smcp;"
+
 . - 'italic' (m/it) with NFSS spec.:
-. <->"utopia-std/I:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"utopia-std/I:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 52.
@@ -1668,20 +1670,22 @@ luaotfload | aux : no font with id 42
 . fontspec info: "defining-font"
 . 
 . Font family 'utopia-std(1)' created for font 'utopia-std' with options
-. [BoldFont = utopia-std-bold.otf,ItalicFont = utopia-std-italic.otf].
+. [Numbers={Proportional,OldStyle},BoldFont = utopia-std-bold.otf,ItalicFont =
+. utopia-std-italic.otf].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"utopia-std:mode=node;script=latn;language=DFLT;"
+. <->"utopia-std:mode=node;script=latn;language=DFLT;+pnum;+onum;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"utopia-std:mode=node;script=latn;language=DFLT;+smcp;"
+. <->"utopia-std:mode=node;script=latn;language=DFLT;+pnum;+onum;+smcp;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"utopia-std-bold.otf:mode=node;script=latn;language=DFLT;"
+. <->"utopia-std-bold.otf:mode=node;script=latn;language=DFLT;+pnum;+onum;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"utopia-std-bold.otf:mode=node;script=latn;language=DFLT;+smcp;"
+. <->"utopia-std-bold.otf:mode=node;script=latn;language=DFLT;+pnum;+onum;+smcp;
+"
 . - 'italic' (m/it) with NFSS spec.:
-. <->"utopia-std-italic.otf:mode=node;script=latn;language=DFLT;"
+. <->"utopia-std-italic.otf:mode=node;script=latn;language=DFLT;+pnum;+onum;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
  (./LIVRO.aux (./INPUTS.aux))
@@ -2127,16 +2131,33 @@ Package caption Info: End \AtBeginDocument code.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2
+]
+Overfull \hbox (7.72597pt too wide) in paragraph at lines 58--58
+[]\TU/utopia-std(0)/bx/n/10.95 Com o apoio da Direção-Geral do Li-vro, dos Ar
+-qui-vos e das []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+
+ []
+
+[2
 
 ]
-<logo.png, id=13, 130.086pt x 113.4639pt>
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package luatex.def Info: logo.png  used on input line 58.
-(luatex.def)             Requested size: 142.26378pt x 124.09216pt.
- [3<./logo.png>]
-[4
+warning  (file logos.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7
+', but at most version '1.5' allowed
+<logos.pdf, id=13, 740.16988pt x 608.68805pt>
+File: logos.pdf Graphic file (type pdf)
+<use logos.pdf>
+Package luatex.def Info: logos.pdf  used on input line 58.
+(luatex.def)             Requested size: 142.26378pt x 116.98936pt.
+[3<./logos.pdf>] [4
 
 ] (./LIVRO.toc) [5]
 \openout2 = INPUTS.aux
@@ -2144,17 +2165,17 @@ Package luatex.def Info: logo.png  used on input line 58.
 
 
 
-] [7] [8] [9] [10]
-[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
-[26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
-[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
-[56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70]
-[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
-[86] [87] [88] [89] [90] [91
+]
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
+[37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51]
+[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66]
+[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
+[82] [83] [84] [85] [86] [87] [88] [89] [90] [91
 Missing character: There is no ǎ (U+01CE) in font utopia-std:mode=node;script=l
-atn;language=DFLT;+tlig;!
+atn;language=DFLT;+pnum;+onum;+tlig;!
 Missing character: There is no ǎ (U+01CE) in font utopia-std:mode=node;script=l
-atn;language=DFLT;+tlig;!
+atn;language=DFLT;+pnum;+onum;+tlig;!
 ] [92] [93] [94]
 Underfull \hbox (badness 1348) in paragraph at lines 3510--3524
 []\TU/utopia-std(0)/m/n/10.95 Se a mu-lher não o ti-vesse acu-sado de co-var-d
@@ -2163,9 +2184,9 @@ ia, tal-vez na se-
 
 [95] [96] [97] [98] [99] [100] [101] [102] [103] [104
 Missing character: There is no ǎ (U+01CE) in font utopia-std:mode=node;script=l
-atn;language=DFLT;+tlig;!
+atn;language=DFLT;+pnum;+onum;+tlig;!
 Missing character: There is no ǎ (U+01CE) in font utopia-std:mode=node;script=l
-atn;language=DFLT;+tlig;!
+atn;language=DFLT;+pnum;+onum;+tlig;!
 ] [105] [106] [107]
 [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]
 [120] [121] [122] [123] [124] [125] [126] [127])) [128]
@@ -2194,25 +2215,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24792 strings out of 494480
+ 24799 strings out of 494480
  1819376,794899 words of node,token memory allocated
- 1477100 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 6 glue, 1 penalty, 239136 glyph, 17622 attribute, 1
-96 glue_spec, 2937 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:6,2:793,3:102,4:50,5:1254,6:1641,7:1226,8:73,9:186,10:26,11:47
+ 1479052 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 6 glue, 1 penalty, 239452 glyph, 17646 attribute, 1
+96 glue_spec, 2941 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:7,2:800,3:101,4:51,5:1254,6:1641,7:1226,8:73,9:186,10:26,11:47
 4
- 27710 multiletter control sequences out of 65536+600000
- 73 fonts using 10921895 bytes
- 56i,14n,71p,1354b,361s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27713 multiletter control sequences out of 65536+600000
+ 75 fonts using 11118735 bytes
+ 56i,14n,87p,1354b,361s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/utopia-std-italic.otf></home/edlab/texmf/tex/fonts/utopia-st
 d.otf></home/edlab/texmf/tex/fonts/utopia-std-bold.otf></usr/share/texlive/texmf
 -dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (130 pages, 494991 bytes).
+Output written on LIVRO.pdf (130 pages, 1539549 bytes).
 
-PDF statistics: 444 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
+PDF statistics: 480 PDF objects out of 1000 (max. 8388607)
+ 301 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -347,9 +347,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT LIVRO.pdf
-INPUT ./logo.png
-INPUT ./logo.png
-INPUT logo.png
+INPUT ./logos.pdf
+INPUT ./logos.pdf
+INPUT logos.pdf
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 OUTPUT INPUTS.aux
